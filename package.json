@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsg1204/Bamazon.git"
+  },
+  "author": "Tatiana Grigorieva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsg1204/Bamazon/issues"
+  },
+  "homepage": "https://github.com/tsg1204/Bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.7.0",
+    "inquirer": "^1.2.1",
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  }
+}
